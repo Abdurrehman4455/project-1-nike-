@@ -29,7 +29,7 @@ const App = () => (
     </section>
     <section className="padding ">
       <Specialoffer/>
-      Special offers
+  
     
     </section>
     <section className=" ">
