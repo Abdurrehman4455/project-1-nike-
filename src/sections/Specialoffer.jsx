@@ -16,7 +16,9 @@ const Specialoffer = () => {
    <h2 className=" font-palanquin text-4xl capitalize  font-bold lg:max-w-lg ">
      
 
-     <span className="text-coral-red">Special</span>offer
+     <span className="text-coral-red  ml-2">Special 
+      </span> Offer
+     
    </h2>
    <p className="mt-4 lg:max-w-lg info-text">     Embark on a shopping journey that redefines your experience with
           unbeatable deals. From premier selections to incredible savings, we
@@ -28,7 +30,7 @@ const Specialoffer = () => {
    </p>
    <div className=" mt-11 flex flex-wrap gap-4">
    <Button label="Shopnow" iconUrl={arrowRight}></Button>
-   <Button label="learnmore" backgroundColor="bg-white" borderColor="border-slate-gray" textColor="text-slate-gray  " ></Button>
+   <Button label="learn more" backgroundColor="bg-white" borderColor="border-slate-gray" textColor="text-slate-gray" ></Button>
    </div>  
 </div>
     </section>
